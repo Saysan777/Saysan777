@@ -29,8 +29,6 @@ src="https://img.shields.io/github/followers/Saysan777?logo=github&style=for-the
 
 <a href="http://www.github.com/Saysan777"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Saysan777&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Saysan777"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Saysan777&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Saysan777" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saysan777&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
