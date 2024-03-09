@@ -50,7 +50,7 @@ src="https://img.shields.io/github/followers/Saysan777?logo=github&style=for-the
     </a>
      <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
         <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" alt="express" width="40" height="40"/> 
-    </a>
+    </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> 
     </a> 
@@ -72,24 +72,13 @@ src="https://img.shields.io/github/followers/Saysan777?logo=github&style=for-the
 </p>
 
 <b>My GitHub Stats</b>
-    <a href="http://www.github.com/Saysan777">
-        <img src="https://github-readme-stats.vercel.app/api?username=Saysan777&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saysan777's GitHub stats" />
-    </a>
-    <a href="http://www.github.com/Saysan777">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saysan777&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-    </a>
-    <a href="https://github.com/Saysan777" align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saysan777&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-    </a>
+
+<a href="http://www.github.com/Saysan777"><img src="https://github-readme-stats.vercel.app/api?username=Saysan777&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Saysan777's GitHub stats" /></a>
+
+<a href="http://www.github.com/Saysan777"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Saysan777&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Saysan777" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saysan777&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
-    <a href="https://github.com/Saysan777/Mentors-Lab" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saysan777&repo=Mentors-Lab&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-    <a href="https://github.com/Saysan777/chatverze" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saysan777&repo=chatverze&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-</div> 
-<br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Saysan777/Mentors-Lab" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saysan777&repo=Mentors-Lab&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Saysan777/chatverze" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Saysan777&repo=chatverze&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
