@@ -3,10 +3,10 @@
 <h4>Full-Stack developer</h4>
 
 - 🔭 I’m currently working as a Full Stack Developer.
-- 🌱 I’m interested in buidling interactive and problem solving web applications.
+- 🌱 I’m interested in building interactive and problem solving web applications.
+- 📚 Education: <strong>Bachelors in computer Science and Information Technology.</strong>
 - 👯 Making the world a better place by creating PRs.
 - 📫 How to reach me: alokaryal32@gmail.com
-- ⚡ Education: <strong>Bachelors in computer Science and Information Technology.</strong>
 
 <a href="https://www.github.com/Saysan777" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Saysan777?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
