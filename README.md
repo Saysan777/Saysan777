@@ -6,7 +6,7 @@
 - 🌱 I’m interested in building interactive and problem solving web applications.
 - 📚 Education: <strong>Bachelors in computer Science and Information Technology.</strong>
 - 👯 Making the world a better place by creating PRs.
-- 📫 How to reach me: alokaryal32@gmail.com
+- 📫 How to reach me: alokaryal32@gmail.com| <a href='https://www.linkedin.com/in/alok-aryal-589a40216/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png' alt="LinkedIn" width="30" height="30"/></a>
 
 <a href="https://www.github.com/Saysan777" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Saysan777?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
