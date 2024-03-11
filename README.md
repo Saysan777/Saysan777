@@ -13,6 +13,8 @@ src="https://img.shields.io/github/followers/Saysan777?logo=github&style=for-the
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Saysan777&label=Profile%20views&color=0e75b6&style=flat" alt="Saysan777" /> </p>
 
+<p align="left"> <a href="https://www.linkedin.com/in/alok-aryal-589a40216/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alok Aryal" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/pragmatic_Alok" target="blank"><img src="https://img.shields.io/twitter/follow/pragmatic_Alok?logo=twitter&style=for-the-badge" alt="pragmatic_alok" /></a> </p>
 
 <h3 align="left">Languages:</h3>
